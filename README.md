@@ -8,7 +8,7 @@ And if you like using these shortcuts, consider [donating](https://buymeacoffee.
 
 ## Downloads
 
-- [Webtoons Shortcut v1.0.0 (latest)](https://codetaal.github.io/ios-shortcuts/webtoons)
+- [Webtoons Shortcut v1.0.0 (latest)](https://codetaal.github.io/ios-shortcuts/webtoons/webtoons.shortcut)
 
 ## Roadmap
 
