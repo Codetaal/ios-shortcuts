@@ -1,5 +1,9 @@
 # First Aid Study-Kit
 
+## Downloads
+
+- [Webtoons Shortcut v1.0.0 (latest)](https://codetaal.github.io/ios-shortcuts/webtoons)
+
 *First Aid Study-Kit* was created to take the pain out of your learning routine and inject a little fun back into the process. Whether you’re facing burnout or just need a boost, these tools are here to make your learning journey a little smoother.
 
 I’d love to hear your thoughts and suggestions! Feel free to reach out at [feedback@codetaal.com](mailto:feedback@codetaal.com) to share your feedback and help me make this kit even better.
