@@ -1,4 +1,10 @@
-# ios-shortcuts
+# First Aid Study-Kit
+
+*First Aid Study-Kit* was created to take the pain out of your learning routine and inject a little fun back into the process. Whether you’re facing burnout or just need a boost, these tools are here to make your learning journey a little smoother.
+
+I’d love to hear your thoughts and suggestions! Feel free to reach out at [feedback@codetaal.com](mailto:feedback@codetaal.com) to share your feedback and help me make this kit even better.
+
+And if you like using these shortcuts, consider [donating](https://buymeacoffee.com/first.aid.studykit) this Dutchie some cheese to keep the updates rolling.
 
 ## Roadmap
 
